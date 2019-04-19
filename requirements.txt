@@ -1,0 +1,9 @@
+numpy==1.16.2
+playsound==1.2.2
+tensorflow==1.13.1
+Keras==2.2.4
+matplotlib==3.0.2
+scipy==1.2.1
+seaborn=0.9.0
+librosa==0.6.3
+tkinter==8.6
