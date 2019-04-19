@@ -35,6 +35,7 @@ Among the trained models Model A and Model B perform the best achieving almost 9
 
 **Accuarcy per epoch**
 ![Link to acc](https://github.com/dasanurag/Audio_emotion_recognition/blob/master/media/acc_epoch.png)
+<br/>
 
 **Accuracy and loss plots**
 ![Acc](https://github.com/dasanurag/Audio_emotion_recognition/blob/master/media/modelB1_accuracy.png)
