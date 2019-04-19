@@ -37,9 +37,9 @@ Among the trained models Model A and Model B perform the best achieving almost 9
 ![Link to acc](https://github.com/dasanurag/Audio_emotion_recognition/blob/master/media/acc_epoch.png)
 
 **Accuracy and loss plots**
-```
-![Acc](https://github.com/dasanurag/Audio_emotion_recognition/blob/master/media/modelB1_accuracy.png) ![Loss](https://github.com/dasanurag/Audio_emotion_recognition/blob/master/media/modelB1_loss.png)
-```
+
+<!-- ![Acc](https://github.com/dasanurag/Audio_emotion_recognition/blob/master/media/modelB1_accuracy.png) ![Loss](https://github.com/dasanurag/Audio_emotion_recognition/blob/master/media/modelB1_loss.png)
+-->
 <p align="center">
   <img src="https://github.com/dasanurag/Audio_emotion_recognition/blob/master/media/modelB1_accuracy.png">
 </p>
@@ -68,6 +68,7 @@ Some samples from the original dataset are provided in the Audio_Speech_Actors_0
 The files used belonged to the following modalities:-
 1. Audio(Speech & Song)
 2. AV(Speech & Song)
+<br/>
 To extract only audio from the video files, ffmpeg was used.
 
 Demo link
