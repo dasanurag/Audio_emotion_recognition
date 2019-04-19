@@ -47,6 +47,12 @@ Among the trained models Model A and Model B perform the best achieving almost 9
   <img src="https://github.com/dasanurag/Audio_emotion_recognition/blob/master/media/modelB1_loss.png">
 </p>
 
+Gui demo
+========
+<p align="center">
+  <img src="https://github.com/dasanurag/Audio_emotion_recognition/blob/master/media/gui_demo.png">
+</p>
+
 Dataset
 =======
 - RAVDESS - [`Audio visual dataset`](https://zenodo.org/record/1188976#.XLlgGENOnq8)
@@ -76,6 +82,6 @@ Demo link
 ===========
 [`https://www.youtube.com/watch?v=ItnfknVA1dA`](https://www.youtube.com/watch?v=ItnfknVA1dA)
 
-Kaggle kernel link
+Link to Kaggle kernel
 ==================
 [`https://www.kaggle.com/dasanurag38/audio-emotion-recognition?scriptVersionId=13099888`](https://www.kaggle.com/dasanurag38/audio-emotion-recognition?scriptVersionId=13099888)
