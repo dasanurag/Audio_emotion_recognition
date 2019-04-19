@@ -34,11 +34,11 @@ Trained models
 Among the trained models Model A and Model B perform the best achieving almost 98% accuarcy on the test set
 
 **Accuarcy per epoch**
-![Link to acc](https://github.com/dasanurag/Audio_emotion_recognition/tree/master/media/acc_epoch.png)
+![Link to acc](https://github.com/dasanurag/Audio_emotion_recognition/blob/master/media/acc_epoch.png)
 
 **Accuracy and loss plots**
-![Acc](https://github.com/dasanurag/Audio_emotion_recognition/tree/master/media/modelB1_accuracy.png)
-![Loss](https://github.com/dasanurag/Audio_emotion_recognition/tree/master/media/modelB1_loss.png)
+![Acc](https://github.com/dasanurag/Audio_emotion_recognition/blob/master/media/modelB1_accuracy.png)
+![Loss](https://github.com/dasanurag/Audio_emotion_recognition/blob/master/media/modelB1_loss.png)
 
 Dataset
 =======
