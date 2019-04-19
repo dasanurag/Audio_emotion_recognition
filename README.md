@@ -64,10 +64,12 @@ Some samples from the original dataset are provided in the Audio_Speech_Actors_0
 1. Total number of files:- 4824
 2. Number of files for training:- 3923
 3. Number of files for validaiton:- 490
-4. Number of files for testing:- 491<br/>
+4. Number of files for testing:- 491
+
 The files used belonged to the following modalities:-
 1. Audio(Speech & Song)
-2. AV(Speech & Song)<br/>
+2. AV(Speech & Song)
+
 To extract only audio from the video files, ffmpeg was used.
 
 Demo link
