@@ -38,8 +38,7 @@ Among the trained models Model A and Model B perform the best achieving almost 9
 <br/>
 
 **Accuracy and loss plots**
-![Acc](https://github.com/dasanurag/Audio_emotion_recognition/blob/master/media/modelB1_accuracy.png)
-![Loss](https://github.com/dasanurag/Audio_emotion_recognition/blob/master/media/modelB1_loss.png)
+![Acc](https://github.com/dasanurag/Audio_emotion_recognition/blob/master/media/modelB1_accuracy.png) ![Loss](https://github.com/dasanurag/Audio_emotion_recognition/blob/master/media/modelB1_loss.png)
 
 Dataset
 =======
