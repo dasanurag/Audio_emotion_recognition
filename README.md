@@ -35,10 +35,17 @@ Among the trained models Model A and Model B perform the best achieving almost 9
 
 **Accuarcy per epoch**
 ![Link to acc](https://github.com/dasanurag/Audio_emotion_recognition/blob/master/media/acc_epoch.png)
-<br/>
 
 **Accuracy and loss plots**
+```
 ![Acc](https://github.com/dasanurag/Audio_emotion_recognition/blob/master/media/modelB1_accuracy.png) ![Loss](https://github.com/dasanurag/Audio_emotion_recognition/blob/master/media/modelB1_loss.png)
+```
+<p align="center">
+  <img src="https://github.com/dasanurag/Audio_emotion_recognition/blob/master/media/modelB1_accuracy.png">
+</p>
+<p align="center">
+  <img src="https://github.com/dasanurag/Audio_emotion_recognition/blob/master/media/modelB1_loss.png">
+</p>
 
 Dataset
 =======
@@ -53,6 +60,15 @@ Filenames follow a 7 part numerical identifier. (e.g., 02-01-06-01-02-01-12.mp4)
 7. Actor (01 to 24. Odd numbered actors are male, even numbered actors are female).
 
 Some samples from the original dataset are provided in the Audio_Speech_Actors_01-05.zip file for testing. Some other samples are present in the RAVDESS_files folder. Also included are samples from the [`SAVEE`](http://kahlan.eps.surrey.ac.uk/savee/Introduction.html) dataset for testing. 
+
+1. Total number of files:- 4824
+2. Number of files for training:- 3923
+3. Number of files for validaiton:- 490
+4. Number of files for testing:- 491
+The files used belonged to the following modalities:-
+1. Audio(Speech & Song)
+2. AV(Speech & Song)
+To extract only audio from the video files, ffmpeg was used.
 
 Demo link
 ===========
