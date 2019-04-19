@@ -31,6 +31,15 @@ Trained models
 - Model C - 5 layer CNN without dropout
 - Model D - 3 layer CNN
 
+Among the trained models Model A and Model B perform the best achieving almost 98% accuarcy on the test set
+
+**Accuarcy per epoch**
+![Link to acc](https://github.com/dasanurag/Audio_emotion_recognition/tree/master/media/acc_epoch.png)
+
+**Accuracy and loss plots**
+![Acc](https://github.com/dasanurag/Audio_emotion_recognition/tree/master/media/modelB1_accuracy.png)
+![Loss](https://github.com/dasanurag/Audio_emotion_recognition/tree/master/media/modelB1_loss.png)
+
 Dataset
 =======
 - RAVDESS - [`Audio visual dataset`](https://zenodo.org/record/1188976#.XLlgGENOnq8)
